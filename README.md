@@ -1,6 +1,6 @@
 # python-programing
 
-## outline
+## 流畅的Python
 
 ```mermaid
 graph TD;
@@ -10,7 +10,7 @@ graph TD;
     C-->D;
 ```
 
-## outline
+## Python核心编程
 
 ```mermaid
 graph TD;
