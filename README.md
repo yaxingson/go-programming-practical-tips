@@ -1,32 +1,35 @@
-# python-programing
+## Data structures and algorithms
 
-## 流畅的Python
+## Function
 
-```mermaid
-graph TD;
-    流畅的Python-->序幕;
-    序幕-->Python数据模型;
+## Control flow
 
-    流畅的Python-->数据结构;
-    数据结构-->序列构成的数组;
-    数据结构-->字典和集合;
-    数据结构-->文本和字节序列;
+## Object oriented
 
-    流畅的Python-->把函数视作对象;
+## Meta programming
 
-    流畅的Python-->面向对象惯用法;
+## Regular expression
 
-    流畅的Python-->控制流程;
+## Multithreaded programming
 
-    流畅的Python-->元编程;
-```
+## GUI programming
 
-## Python核心编程
+## Microsoft office programming
 
-```mermaid
-graph TD;
-    A-->B;
-    A-->C;
-    B-->D;
-    C-->D;
-```
+## Database programming
+
+## Date and time
+
+## Files and I/O
+
+## Data coding and processing
+
+## Modules and packages
+
+## Practical scripting and system administration
+
+## Network and web programming
+
+## Testing, debugging, and exceptions
+
+## Python extend
