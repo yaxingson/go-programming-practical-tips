@@ -1,3 +1,5 @@
+[中文翻译](./README.zh.md)
+
 ## Data structures and algorithms
 
 ## Function
