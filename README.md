@@ -1,5 +1,7 @@
 # Go Programming Practical Tips
 
+English &nbsp; | &nbsp; [Chinese](./README.zh-CN.md)
+
 ## Tips
 
 ### 1. Measure the execution time of a function in just one line of code
