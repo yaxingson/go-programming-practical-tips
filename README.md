@@ -1,4 +1,4 @@
-# Go Programming Parctical Tips
+# Go Programming Practical Tips
 
 ## Tips
 
