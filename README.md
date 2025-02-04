@@ -1,37 +1,25 @@
-[中文翻译](./README.zh.md)
+# Go Programming Parctical Tips
 
-## Data structures and algorithms
+## Tips
 
-## Function
+### Measure the execution time of a function in just one line of code
 
-## Control flow
+### Multistage defer
 
-## Object oriented
+### Pre-allocate slices for performance
 
-## Meta programming
+### Parse an Array into a Slice
 
-## Regular expression
+### Method Chaining
 
-## Multithreaded programming
+### Underscore Import
 
-## GUI programming
+### Wrapping Errors
 
-## Microsoft office programming
+### Compile-Time Interface Verification
 
-## Database programming
+### Avoid Naked Parameters
 
-## Date and time
+### Umeric Separators
 
-## Files and I/O
-
-## Data coding and processing
-
-## Modules and packages
-
-## Practical scripting and system administration
-
-## Network and web programming
-
-## Testing, debugging, and exceptions
-
-## Python extend
+### Avoid using math/rand, use crypto/rand for keys instead
