@@ -2,15 +2,15 @@
 
 ## Tips
 
-### Measure the execution time of a function in just one line of code
+### 1. Measure the execution time of a function in just one line of code
 
-### Multistage defer
+### 2. Multistage defer
 
-### Pre-allocate slices for performance
+### 3. Pre-allocate slices for performance
 
-### Parse an Array into a Slice
+### 4. Parse an Array into a Slice
 
-### Method Chaining
+### 5. Method Chaining
 
 ### Underscore Import
 
